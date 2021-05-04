@@ -2,7 +2,7 @@
 Online Proctoring: It is a service which is used to monitor activities of a person through their webcam and microphone.
 This Project aim is to create an automated proctoring system for Online Examination. 
 
-app.py -- This is the main file which is built using FLask framework. Here dataflow from frontend(website build using HTML pages) to backend is managaed and viceversa.
+app.py -- This is the main file which is built using Flask framework. Here dataflow from frontend(website build using HTML pages) to backend(using python) is managed and viceversa.
 
 The project is divided into multiple tasks. 
 
